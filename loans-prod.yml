@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+loans:
+  message: "Welcome to Bits&Bytes Bank loans related local APIs"
+  contactDetails:
+    name: "Matthias Kowalski - Software Engineer (PROD Lead)"
+    email: "matthias.kowalski@worldwide.de"
+  onCallSupport:
+    - (+49) 999 999 999

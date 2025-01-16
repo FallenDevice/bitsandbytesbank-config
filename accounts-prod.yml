@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+accounts:
+  message: "Welcome to Bits&Bytes Bank accounts related local APIs"
+  contactDetails:
+    name: "Matthias Kowalski - Software Engineer (PROD Lead)"
+    email: "matthias.kowalski@worldwide.de"
+  onCallSupport:
+    - (+49) 999 999 999
