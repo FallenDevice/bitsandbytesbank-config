@@ -8,6 +8,6 @@ accounts:
   message: "Welcome to Bits&Bytes Bank accounts related local APIs"
   contactDetails:
     name: "Matthias Kowalski - Software Engineer (QA Lead)"
-    email: "matthias.kowalski@worldwide.de"
+    email: "{cipher}5b2ceaac0cc36ae85ad8e0623b6dbf6af24e7328b099e886b138837e9c79ce3282fa7a0c360c7bed90a5d11b8ebc1f61"
   onCallSupport:
     - (+49) 999 999 999
